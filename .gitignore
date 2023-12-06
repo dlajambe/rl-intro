@@ -1,3 +1,6 @@
+# Output should not be version controlled
+output/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
